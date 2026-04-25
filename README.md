@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi 👋, I'm Marcelo Mangelli
 
-<!--
-**MarceloMangelli/MarceloMangelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 High school student focused on software development  
+🚀 Building real projects while learning programming in practice  
+ Brazil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+
+I'm currently exploring web development with a focus on building real systems, not just theoretical projects.
+
+Currently working on:
+
+- A login and authentication system using JavaScript
+- Full websites built from scratch
+
+My goal is to grow into software engineering and digital product development.
+
+---
+
+## 🌐 Where to find me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/MarceloMangelli)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo_mangelli29/)
+
+---
+
+## 🧠 What I'm doing
+
+- 🔐 Learning authentication (login/register systems)
+- 🌐 Web development (HTML, CSS, JavaScript)
+- 🧩 Programming logic
+- ⚙️ System structure fundamentals
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3)
+
+### Tools
+
+![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
+
+---
+
+## 📌 Projects
+
+- 🔐 Login System (in progress)
+- 🌐 Full website built from scratch
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+---
+
+## 🎯 Philosophy
+
+> Execution over theory. Consistency over motivation. Progress over perfection.
+
+---
+
+⭐ Always open to learning and building new things
+
+
